@@ -1,0 +1,33 @@
+{
+  "home": "Home",
+  "about": "About",
+  "language": "Language",
+  "navigation": "Main navigation",
+  "loading": "Loading",
+  "notFound": "Page not found",
+  "starter": "Your next application starts here",
+  "title": "One foundation. Every platform.",
+  "intro": "Build for the browser, install on your device, or bring your application to the desktop. Start with a shared React foundation.",
+  "explore": "Explore the foundation",
+  "active": "Active",
+  "targets": {
+    "spa": {
+      "title": "Web application",
+      "description": "A fast single-page application with type-safe navigation."
+    },
+    "pwa": {
+      "title": "Progressive web app",
+      "description": "An installable experience with an offline-ready application shell."
+    },
+    "electron": {
+      "title": "Desktop application",
+      "description": "The same interface, packaged for Windows, macOS, and Linux."
+    }
+  },
+  "aboutTitle": "Built to make it yours.",
+  "aboutDescription": "A small, reusable starting point with shared routes, components, and translations across every target.",
+  "translationHint": "Switch languages in the navigation. Translation files are loaded on demand and your preference is remembered.",
+  "reload": "Reload",
+  "updateAvailable": "An update is available. Reload when you are ready.",
+  "offlineReady": "The application is ready to work offline."
+}

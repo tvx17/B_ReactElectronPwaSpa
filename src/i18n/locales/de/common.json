@@ -1,0 +1,33 @@
+{
+  "home": "Startseite",
+  "about": "Über das Projekt",
+  "language": "Sprache",
+  "navigation": "Hauptnavigation",
+  "loading": "Wird geladen",
+  "notFound": "Seite nicht gefunden",
+  "starter": "Hier beginnt deine nächste Anwendung",
+  "title": "Eine Grundlage. Jede Plattform.",
+  "intro": "Für den Browser entwickeln, auf dem Gerät installieren oder auf den Desktop bringen. Mit einer gemeinsamen React-Grundlage starten.",
+  "explore": "Grundlage entdecken",
+  "active": "Aktiv",
+  "targets": {
+    "spa": {
+      "title": "Webanwendung",
+      "description": "Eine schnelle Single-Page-Anwendung mit typsicherer Navigation."
+    },
+    "pwa": {
+      "title": "Progressive Web App",
+      "description": "Eine installierbare Anwendung mit offlinefähiger Oberfläche."
+    },
+    "electron": {
+      "title": "Desktop-Anwendung",
+      "description": "Dieselbe Oberfläche, als Anwendung für Windows, macOS und Linux."
+    }
+  },
+  "aboutTitle": "Bereit für deine Ideen.",
+  "aboutDescription": "Ein kleiner, wiederverwendbarer Ausgangspunkt mit gemeinsamen Routen, Komponenten und Übersetzungen für alle Zielplattformen.",
+  "translationHint": "Wechsle die Sprache in der Navigation. Übersetzungen werden bei Bedarf geladen und deine Auswahl wird gespeichert.",
+  "reload": "Neu laden",
+  "updateAvailable": "Ein Update ist verfügbar. Lade die Anwendung neu, wenn du bereit bist.",
+  "offlineReady": "Die Anwendung ist jetzt offline verfügbar."
+}

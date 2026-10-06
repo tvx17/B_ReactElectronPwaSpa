@@ -1,0 +1,15 @@
+# Betriebssystemdateien
+.DS_Store
+Thumbs.db
+
+# Lokale Umgebungsvariablen
+.env
+.env.*
+!.env.example
+node_modules/
+dist/
+dist-electron/
+release/
+playwright-report/
+test-results/
+*.log
